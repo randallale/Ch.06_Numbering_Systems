@@ -20,3 +20,5 @@ Convert RGB (32,128,64) to Hexadecimal.
 Convert 01000001, 01010011, 01000011, 01001001, 01001001 to ASCII.
 ASCII very funny
 '''
+print(chr(72))
+print(ord("!"))
